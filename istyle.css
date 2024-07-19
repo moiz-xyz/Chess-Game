@@ -19,11 +19,11 @@ text-align: center;
 }
 .box1{
  border: 2px solid rgb(227,193,111);
- height: 52px;
+ height: 100px;
  background-color: rgb(227,193,111);
 }
 .box2{
     border: 2px solid  chocolate;
-    height: 52px;
+    height: 100px;
     background-color:rgb( 184,139,74); 
 }
